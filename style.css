@@ -1,5 +1,9 @@
+header{
+    text-align:center;
+}
+
 body{
-    background-color:grey;
+    background-color: dark grey;
     font-family:arial,Helvetica, sans-serif;
     }
 
