@@ -1,0 +1,27 @@
+body{
+    background-color:grey;
+
+}
+
+
+#Title{
+    text-align:center;
+    font-size: 12px;
+    
+}
+
+#name{
+    text-align:center;
+    font-size:12px;
+}
+
+#date{
+    text-align:center;
+    font-size:12px;
+}
+
+
+#submit{
+    background-color: blue;
+   font-size:white;
+}
