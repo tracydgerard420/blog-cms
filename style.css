@@ -4,24 +4,24 @@ body{
 }
 
 
-#Title{
+#ps-Title{
     text-align:center;
     font-size: 12px;
     
 }
 
-#name{
+#ps-Name{
     text-align:center;
     font-size:12px;
 }
 
-#date{
+#ps-date{
     text-align:center;
     font-size:12px;
 }
 
 
-#submit{
+#ps-submit{
     background-color: blue;
    font-size:white;
 }
