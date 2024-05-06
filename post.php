@@ -20,8 +20,8 @@
     }
   </style>  
     <nav>
-        <li><a href="index.html">Homepage</a></li>
-        <li><a href="post-submission.html">post-submission</a></li>
+        <li><a href="index.php">Homepage</a></li>
+        <li><a href="post-submission.php">post-submission</a></li>
 
 
     </nav>
