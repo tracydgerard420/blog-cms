@@ -19,6 +19,11 @@
             font-style: bold;
         }
         
+        nav{
+            text-align: center;
+
+        }
+        
     
      
     </style>
