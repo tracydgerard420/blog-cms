@@ -4,6 +4,4 @@
 
     <body>
 
-    <?php
-    $Title= "$_POST" ["Title"]
-    echo 
+    
